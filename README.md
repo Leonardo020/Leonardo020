@@ -3,7 +3,7 @@
 ### Sou o Leonardo, desenvolvedor Jr. com muita vontade de explorar esse mundo da programação!
 ### Confira os meus status: 
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=Leonardo020&count_private=true&show_icons=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo020&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo020&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=000c&title_color=5e17eb&text_color=fff&icon_color=fff"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo020&layout=compact&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=000c&title_color=5e17eb&text_color=fff&icon_color=fff">
 
 <!--
 **Leonardo020/Leonardo020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
