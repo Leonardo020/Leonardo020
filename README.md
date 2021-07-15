@@ -1,4 +1,9 @@
-### Hi there 👋
+# Opa senhores! Entrem! Sejam bem-vindos 👋
+<img src="https://user-images.githubusercontent.com/66131097/125713782-2098ac8e-c461-400d-b6fe-8f2eda15a08c.gif" height="375" width="1000"></img>
+### Sou o Leonardo, desenvolvedor Jr. com muita vontade de explorar esse mundo da programação!
+### Confira os meus status: 
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=Leonardo020&count_private=true&show_icons=true&hide=contribs) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo020&layout=compact)
 
 <!--
 **Leonardo020/Leonardo020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
