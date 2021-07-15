@@ -1,5 +1,5 @@
 # Opa senhores! Entrem! Sejam bem-vindos 👋
-<img src="https://user-images.githubusercontent.com/66131097/125713782-2098ac8e-c461-400d-b6fe-8f2eda15a08c.gif" height="375" width="1000"></img>
+<img src="https://user-images.githubusercontent.com/66131097/125713782-2098ac8e-c461-400d-b6fe-8f2eda15a08c.gif" height="325" width="950"></img>
 ### Sou o Leonardo, desenvolvedor Jr. com muita vontade de explorar esse mundo da programação!
 ### Confira os meus status: 
 
